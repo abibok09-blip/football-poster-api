@@ -9,7 +9,6 @@
 \f0\fs28 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
 const express = require('express');\
 const \{ createCanvas, loadImage \} = require('canvas');\
-const fetch = require('node-fetch');\
 const app = express();\
 const PORT = process.env.PORT || 3000;\
 \
